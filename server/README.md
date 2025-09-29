@@ -23,3 +23,16 @@
 Use arguments (filter, limit, offset)
 
 Nested resolvers (get author info when querying books)
+
+
+## Technologies used:
+
+### Langugage: 
+     TypeScript
+
+### Node js Libraries:
+    - graphql
+    - graphql-tag
+    - @apollo/server
+    - @graphql-tools/mock
+    - @graphql-tools/schema

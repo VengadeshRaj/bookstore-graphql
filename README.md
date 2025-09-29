@@ -1,1 +1,2 @@
-# bookstore-graphql
+# bookstore-graphql - Basics of Graph QL
+

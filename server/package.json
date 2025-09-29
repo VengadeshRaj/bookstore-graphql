@@ -14,5 +14,12 @@
     "@types/node": "^24.5.2",
     "tsx": "^4.20.6",
     "typescript": "^5.9.2"
+  },
+  "dependencies": {
+    "@apollo/server": "^5.0.0",
+    "@graphql-tools/mock": "^9.0.25",
+    "@graphql-tools/schema": "^10.0.25",
+    "graphql": "^16.11.0",
+    "graphql-tag": "^2.12.6"
   }
 }
